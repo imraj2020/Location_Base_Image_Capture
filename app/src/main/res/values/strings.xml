@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Location Base Image Capture</string>
+    <string name="content_description" translatable="false">image</string>
 </resources>
